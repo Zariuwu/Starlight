@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZhJgSsFKiW_KJ7nUg3D_-2" value="Open Starlight" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#unset;strokeWidth=NaN;lucidId=8Yr.N6paqiwt;" vertex="1" parent="1">
-          <mxGeometry x="-195" width="120" height="60" as="geometry" />
+          <mxGeometry x="-195" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZhJgSsFKiW_KJ7nUg3D_-3" value="Log in or Sign up" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#unset;strokeWidth=NaN;lucidId=mZr.YkDPpje3;" vertex="1" parent="1">
           <mxGeometry x="-195" y="90" width="120" height="60" as="geometry" />
